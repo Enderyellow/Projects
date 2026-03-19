@@ -1,0 +1,5 @@
+T1,Kuna,1,teacher
+T2,Lohit,2,teacher
+S1,Maha,1,staff
+T3,Shantosh,3,teacher
+S2,Pranaav,2,staff

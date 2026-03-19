@@ -1,0 +1,5 @@
+CC-1,schedule,Monday(1pm - 3pm),Monday(12pm - 2pm)
+A-1,classroom,A-4-6,E-9-8
+CC-2,classroom,D-2-5,D-7-9
+B-2,schedule,Thursday(2pm - 4pm),Tuesday(2pm - 4pm)
+B-2,schedule,Tuesday(2pm - 4pm),Tuesday(12pm - 2pm)

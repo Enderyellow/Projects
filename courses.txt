@@ -1,0 +1,4 @@
+ICT,CC,Students can learn from basic to extreme coding,Kuna
+Art,A,Learn artistic principles and techniques to enhance one's ability,Lohit
+Business,B,Learn marketing strategy and businesses from all around the world,Kuna
+Electrical engineering,EE,Study and design application of electricity,Shantosh

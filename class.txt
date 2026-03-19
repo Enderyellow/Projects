@@ -1,0 +1,5 @@
+CC,CC-1,Monday(12pm - 2pm),B-2-6,codinglectureslides.pdf,ICTAssignment.pdf,Kuna
+CC,CC-2,Tuesday(4pm - 6pm),D-7-9,codinglectureslides.pdf,ICTAssignment.pdf,Kuna
+A,A-1,Wednesday(1pm - 3pm),E-9-8,drawinglectureslides.pdf,ArtAssignment.pdf,Lohit
+B,B-2,Tuesday(12pm - 2pm),A-6-3,marketinglectureslides.pdf,BusinessAssignment.pdf,Kuna
+EE,EE-1,Monday(3pm - 5pm),E-6-7,electricallectureslides.pdf,ElectricAssignment.pdf,Shantosh

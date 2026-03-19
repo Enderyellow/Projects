@@ -1,0 +1,5 @@
+CC-1,Monday(12pm - 2pm)
+CC-2,Tuesday(4pm - 6pm)
+A-1,Wednesday(1pm - 3pm)
+B-2,Tuesday(12pm - 2pm)
+EE-1,Monday(3pm - 5pm)
